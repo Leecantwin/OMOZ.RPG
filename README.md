@@ -26,4 +26,4 @@ More features, content, and updates will be added over time.
 Coming soon…
 
 👤 Developer
-Created by Lee Alexis A. Alindayo"
+Created by "Lee Alexis A. Alindayo".
