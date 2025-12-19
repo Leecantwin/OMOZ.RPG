@@ -1,1 +1,3 @@
-I wanna make a 2d rpg game :D 
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
