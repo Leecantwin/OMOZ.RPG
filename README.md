@@ -6,12 +6,12 @@
 OMOZ RPG takes place in a dark and unforgiving world where power is earned through effort. The game features a red-dark fantasy atmosphere filled with danger, monsters, and brutal battles.
 
 🎮 Game Features
-- 🔺 Leveling system with meaningful progression  
-- 🌾 Farming monsters for loot and materials  
-- 🔨 Crafting weapons and armor  
-- 🏰 Dungeons filled with enemies and bosses  
-- 🐉 Boss battles with rare item drops  
-- ⚔️ PvP combat to test player skill  
+🔺 Leveling system with meaningful progression  
+🌾 Farming monsters for loot and materials  
+🔨 Crafting weapons and armor  
+🏰 Dungeons filled with enemies and bosses  
+🐉 Boss battles with rare item drops  
+⚔️ PvP combat to test player skill  
 
 🧙 Gameplay Style
 OMOZ RPG is designed for players who enjoy long-term progression, grinding, and building strong characters. Every upgrade matters, and every battle helps you grow stronger.
